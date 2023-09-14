@@ -37,6 +37,7 @@ E-Commerce App powered by Firebase. Discover a user-friendly platform where you 
    <img src="img/ak12.jpg" width="200">
    <img src="img/ak13.jpg" width="200">
    <img src="img/ak14.jpg" width="200">
+  <img src="img/ak15.jpg" width="200">
 </div>
 
 ## Prerequisites
